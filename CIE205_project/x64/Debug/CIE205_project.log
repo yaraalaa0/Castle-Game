@@ -1,0 +1,6 @@
+﻿  functns.cpp
+e:\zewail city\fall 2017\ds\cie205_project\cie205_project\functns.cpp(380): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\zewail city\fall 2017\ds\cie205_project\cie205_project\functns.cpp(387): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\zewail city\fall 2017\ds\cie205_project\cie205_project\functns.cpp(456): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\zewail city\fall 2017\ds\cie205_project\cie205_project\functns.cpp(462): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CIE205_project.vcxproj -> E:\Zewail City\Fall 2017\DS\CIE205_project\x64\Debug\CIE205_project.exe
